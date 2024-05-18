@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: SAevaluator
+Version: 0.0.1
+Author: Swapnil Jyot
+Author-email: swapniljytkd888@gmail.com
+Requires-Dist: openai
+Requires-Dist: langchain
+Requires-Dist: streamlit
+Requires-Dist: python-dotenv
+Requires-Dist: PyPDF2

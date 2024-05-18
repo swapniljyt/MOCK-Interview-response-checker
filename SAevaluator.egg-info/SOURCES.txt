@@ -1,0 +1,7 @@
+README.md
+setup.py
+SAevaluator.egg-info/PKG-INFO
+SAevaluator.egg-info/SOURCES.txt
+SAevaluator.egg-info/dependency_links.txt
+SAevaluator.egg-info/requires.txt
+SAevaluator.egg-info/top_level.txt
