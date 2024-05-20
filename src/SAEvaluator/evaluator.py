@@ -17,7 +17,7 @@ from langchain.chains import SequentialChain
 load_dotenv()
 
 OPENAI_KEY=os.getenv("KEY")
-llm=ChatOpenAI(openai_api_key=OPENAI_KEY,model_name="gpt-4o",temperature=0.5)
+llm=ChatOpenAI(openai_api_key=OPENAI_KEY,model_name="gpt-4-turbo",temperature=0.5)
 
 TEMPLATE_gpt = """
 You are an expert examiner tasked with evaluating a student's response sheet against the answer key:
