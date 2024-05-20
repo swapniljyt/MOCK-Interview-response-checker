@@ -1,0 +1,33 @@
+Question: Explain the process of Water cycle?
+Answer: The water cycle, or hydrological cycle, consists of several stages. Evaporation occurs when
+surface water transforms into vapor due to heat. Condensation results in cloud formation as water
+vapor cools and condenses into liquid. Precipitation transpires when water droplets or ice crystals
+fall from clouds as rain, snow, sleet, or hail. Runoff entails the surface flow of water back into
+oceans, rivers, or lakes.
+
+Question: What is GitHub and why is it used?
+Answer: GitHub is a platform for hosting code that allows for version control and collaboration. 
+It allows you and others to collaborate on projects from anywhere.
+This lesson will teach you the fundamentals of GitHub, such as repositories, branches, commits, and pull requests..
+
+Question:Two resistances are connected in two gaps of Meter Bridge. The balance is 20cm from the zero end.
+A resistance of 15 ohms is connected in series with the smaller of the two.
+The null point shifts to 40cm. What is the value of the bigger resistance?
+Answer:Explanation: Let P be the smaller resistance and Q be the bigger resistance.
+First case → P/Q=20/80=1/4
+Second case → (P+15)/Q=40/60=2/3
+Comparing both → P/(P+15)=1/4×3/2=3/8
+8P = 3P + 45 → 5P = 45 → P = 9 ohms
+Therefore, substituting in P/Q=1/4 → 9/Q=1/4 → Q = 36 ohms.
+
+Question: Find the roots of the equation y^3 - 23y^2+ 142y -120?
+Answer:here are the steps to factorise the equation
+       => y^3 - 23y^2+ 142y -120
+       => y^3−y^2−22x^2+22x+120x−120
+       => y^2(y−1)−22y(y−1)+120(y−1)
+       => (y−1){x2−10x−12x+120}
+       => (y−1){y(y−10)−12(y−10)}
+       => (x−1)(x−10)(x−12)
+Question:The resistivity of semiconductors and insulators decreases linearly with the increase of temperature.?
+Answer:The resistivity of semiconductors and insulators decreases exponentially with the increase in temperature. 
+This is because the number density of free electrons increases exponentially with the increase in temperature.

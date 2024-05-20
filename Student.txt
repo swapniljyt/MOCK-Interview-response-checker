@@ -1,0 +1,30 @@
+Question: Explain the process of Water cycle?
+Answer: A Water cycle is a process underwhich H2O has been evoporates from big water bodies like ocean,seas,river .After that the evoporates steams 
+make cloud of stream droplets when the cloud got dense then the precipitate in the form of rain,hail and snow this is the water cycle.
+
+Question: What is GitHub and why is it used?
+Answer: GitHub is a platform for hosting our project codes, packages,methods where community will see and send their review.
+we also upload our project repository here for review and suggestion.
+
+Question:Two resistances are connected in two gaps of Meter Bridge. The balance is 20cm from the zero end.
+A resistance of 15 ohms is connected in series with the smaller of the two.
+The null point shifts to 40cm. What is the value of the bigger resistance?
+Answer:Explanation: Let P be the smaller resistance and Q be the bigger resistance.
+=> A/B=20/80=1/4
+=> (A+15)/B=40/60=2/3
+=> A/(A+15)=1/4×3/2=3/8
+=> 8A = 3A + 45  
+=> 8A-3A = 45 
+=> A = 9 ohms
+substituting in A/B=1/4 → 9/B=1/4 → B = 36 ohms.
+
+Question: Find the roots of the equation y^3 - 23y^2+ 142y -120?
+Answer:
+Factors of 120 is = 1,2,3,4,5,6,8,10,12,15,20,24,30,40,60,-1,-2,-3,-4,-5,-6,-8,-10,-12,-15,-20,-24,-30,-40,-60,
+now caliberate these factors such that their summation is = -23 and multiplications is = -120
+so the anwer is -1,-10,-12
+=> -1 * -10 * -12 = -120
+=> -1+(-10)+(-12)=-23
+So our roots is (x−1)(x−10)(x−12)
+Question:The resistivity of semiconductors and insulators decreases linearly with the increase of temperature.?
+Answer:
