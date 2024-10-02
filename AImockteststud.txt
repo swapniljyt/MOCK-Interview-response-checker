@@ -1,0 +1,20 @@
+Question: What is the difference between supervised, unsupervised, and reinforcement learning? Provide examples of each.
+Answer: Supervised learning is about predicting outputs using labeled data, like predicting house prices.
+Unsupervised learning is more about using unlabeled data to figure out what's going on, like finding groups in customers—I think clustering is what it's called? Reinforcement learning, though, is totally different—it's like a game where the model gets rewards or penalties, for example, a robot learning to walk.
+Sometimes reinforcement is used to identify groups, but I'm not sure about that.
+
+Question: Explain what a confusion matrix is in the context of classification. How can it help evaluate a model's performance?
+Answer: A confusion matrix is a table that shows different types of errors a model can make: true positives, false positives, and, uh, maybe true negatives and false negatives? I know it helps calculate things like accuracy and, um, precision—basically how accurate the model is. 
+But I think recall and F1-score might be in there too? Not totally sure how they’re calculated, but it's important for seeing the model's performance.
+
+Question: What is the Curse of Dimensionality, and how does it affect machine learning models?
+Answer: The Curse of Dimensionality is when adding more features makes the model worse. 
+It's because the data gets too spread out, which somehow leads to poor predictions.
+I think it only happens with deep learning models, and the more features you add, the more likely you are to overfit. Using PCA is one way to fix this, but I think there's also some other ways, like maybe just dropping some columns.
+
+Question: How does a convolutional neural network (CNN) differ from a recurrent neural network (RNN)? Provide practical use cases for each.
+Answer: CNNs are mainly for images, like recognizing cats in photos, and RNNs are for text, like predicting the next word. 
+CNNs have these things called filters that help capture features, while RNNs are all about memory—they're good at keeping track of sequences, like predicting time-series data. Honestly, I’m not sure, but I think you could use CNNs for language too if you change some settings.
+
+Question: Explain the concept of gradient descent. What are some variants of gradient descent, and when might each be used?
+Answer:

@@ -10,19 +10,19 @@ from  src.SAEvaluator.evaluator import score_structure
 from  src.SAEvaluator.logger import logging
 
 #loading jason file
-with open(r'C:\Users\Swapnil Jyot\SAE_system\Response.json', 'r') as file:
+with open(r'/root/src/OpenAI-SubjectiveAnswerSheet-Evaluation/Response.json', 'r') as file:
     tabular_response = json.load(file)
  
 
 #creating a title
-st.title("SUBJECTIVE ANSWERSHEET EVALUATION SYSTEM")
+st.title("MOCK INTERVIEW RESPONSE")
 
 #create a form using st.form
 with st.form("user_inputs"):
     # file
     Student_file=st.file_uploader("Upload Student Response")
     Answer_file=st.file_uploader("Upload Answer Key")
-    button = st.form_submit_button("Create MCQs")
+    button = st.form_submit_button("SCORE")
 
 
     if (button and Student_file is not None )and (Answer_file is not None) :

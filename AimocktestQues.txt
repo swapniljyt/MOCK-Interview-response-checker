@@ -1,0 +1,20 @@
+Question: What is the difference between supervised, unsupervised, and reinforcement learning? Provide examples of each.
+Answer: Supervised learning uses labeled data to predict outputs, like predicting house prices.
+Unsupervised learning finds patterns in unlabeled data, such as customer segmentation. 
+Reinforcement learning involves learning through rewards and penalties by interacting with an environment, like training a robot to navigate a maze.
+
+Question: Explain what a confusion matrix is in the context of classification. How can it help evaluate a model's performance?
+Answer: A confusion matrix is a table that shows the number of true positives, true negatives, false positives, and false negatives.
+It helps calculate metrics like accuracy, precision, and recall, giving insights into how well a classification model is performing.
+
+Question: What is the Curse of Dimensionality, and how does it affect machine learning models?
+Answer: The Curse of Dimensionality occurs when increasing the number of features makes the data sparse, leading to poor model generalization. 
+It often causes overfitting and requires more data to achieve accurate predictions. Dimensionality reduction techniques like PCA are used to address this.
+
+Question: How does a convolutional neural network (CNN) differ from a recurrent neural network (RNN)? Provide practical use cases for each.
+Answer: CNNs are designed for spatial data like images (e.g., object detection), while RNNs are for sequential data like text or time series (e.g., language translation).
+CNNs capture spatial patterns, whereas RNNs capture temporal dependencies.
+
+Question: Explain the concept of gradient descent. What are some variants of gradient descent, and when might each be used?
+Answer: Gradient descent is an optimization method that minimizes the cost function by updating parameters.
+Variants include Batch Gradient Descent (uses all data, good for stable convergence), Stochastic Gradient Descent (uses one sample, good for faster updates on large datasets), and Mini-batch Gradient Descent (balances between batch and SGD).
